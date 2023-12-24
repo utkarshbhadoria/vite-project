@@ -5,7 +5,7 @@ function Home() {
   return (
     
     <Layout>Home
-        vsdsdsdfsd
+        vsdsd
     </Layout>
   )
 }
