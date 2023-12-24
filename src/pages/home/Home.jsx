@@ -5,7 +5,6 @@ function Home() {
   return (
     
     <Layout>Home
-        vsdsd
     </Layout>
   )
 }
